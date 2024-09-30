@@ -34,10 +34,10 @@ namespace UnitTest
             Assert.AreEqual("ONE THOUSAND DOLLARS", test1);
 
             string test2 = NumToText.DollarsToText((decimal)99876.10);
-            Assert.AreEqual("NINETY NINE THOUSAND EIGHT HUNDRED AND SEVENTY SIX DOLLARS AND TEN CENTS", test2);
+            Assert.AreEqual("NINETY-NINE THOUSAND EIGHT HUNDRED AND SEVENTY-SIX DOLLARS AND TEN CENTS", test2);
 
             string test3 = NumToText.DollarsToText((decimal)0.99);
-            Assert.AreEqual("NINETY NINE CENTS", test3);
+            Assert.AreEqual("NINETY-NINE CENTS", test3);
 
             string test4 = NumToText.DollarsToText(-10);
             Assert.AreEqual("NUMBER MUST BE ZERO OR GREATER", test4);

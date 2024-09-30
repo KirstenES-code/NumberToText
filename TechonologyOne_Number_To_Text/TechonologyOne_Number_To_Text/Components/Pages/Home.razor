@@ -1,0 +1,76 @@
+﻿@page "/"
+
+<table class="really_cool_table">
+    <tr class="half_page">
+        <td style="vertical-align: middle">
+        <label class="really_cool_label">@text</label>
+        </td>
+    </tr>
+    <tr>
+        <label class="really_cool_tag">Min: 0, Max: @decimal.MaxValue</label>
+    </tr>
+    <tr>
+        <td style="vertical-align: top">
+            <label class="really_cool_dollar_sign">$</label>
+            <input class="really_cool_input" type="number" min="0" step="0.01" @bind-value=@input @oninput="@CheckNum" onkeydown="return (event.keyCode !== 69 && event.keyCode !== 187 && event.keyCode !== 189)" />
+            <button class="really_cool_button" @onclick="@GetText" >TO TEXT</button>
+        </td>
+    </tr>
+    <tr>
+        <label class="really_cool_tag">@input_string</label>
+    </tr>
+</table>
+<div style="position: relative">
+    <p style="position: fixed; bottom: 0; width:100%; text-align: center">
+        Made By Kirsten Schelling
+    </p>
+</div>
+
+
+@code {
+    //[Parameter] public EventCallback<string> OnDoneCallBack { get; set; }
+    private string text = "Enter Dollar Value Below To Begin...";
+    private decimal input { get; set; }
+    private string input_string { get; set; }
+
+    private void CheckNum(ChangeEventArgs args)
+    {
+        Console.WriteLine(args.Value.ToString());
+        if(args.Value.ToString() != "")
+        {
+            try
+            {
+                input = decimal.Parse(args.Value.ToString(), CultureInfo.InvariantCulture);
+            }
+            catch
+            {
+                input = decimal.MaxValue;
+            }
+            StateHasChanged();
+            input_string = "$" + input.ToString("#,###.00", CultureInfo.InvariantCulture);
+        }
+        else
+        {
+            input = 0;
+        }
+        GetText();
+    }
+
+    private void GetText()
+    {
+        input = Math.Round(input, 2); //Round to prevent giving too many decimal points to function
+        if (input > decimal.MaxValue)
+        {
+            text = "NUMBER IS TOO LARGE";
+        }
+        else
+        {
+            text = NumToText.DollarsToText(input);
+            if (text == "")
+            {
+                text = "Error With Input, Try Another Number";
+            }
+        }
+    }
+
+}

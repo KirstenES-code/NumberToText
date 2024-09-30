@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TechonologyOne_Number_To_Text.props" />
+</Project>

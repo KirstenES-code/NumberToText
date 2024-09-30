@@ -1,0 +1,7 @@
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\TechonologyOne_Number_To_Text.exe
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\TechonologyOne_Number_To_Text.dll
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\TechonologyOne_Number_To_Text.deps.json
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\TechonologyOne_Number_To_Text.runtimeconfig.json
+C:\Users\Kirsty\Desktop\Programming\TechnologyOne Number To Text\TechonologyOne_Number_To_Text\TechonologyOne_Number_To_Text\obj\Release\net8.0\PubTmp\Out\TechonologyOne_Number_To_Text.pdb

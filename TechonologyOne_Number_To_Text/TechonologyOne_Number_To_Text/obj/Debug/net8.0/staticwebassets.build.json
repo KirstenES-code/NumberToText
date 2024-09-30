@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rHzn7GWPBJFssEz1S/pOPtosBjz3S8Ml5SmT+1wnppY=",
+  "Hash": "9xfP3VQsRyp5+2G5B7thi1Du5lnh6t5bL0+quitx+fI=",
   "Source": "TechonologyOne_Number_To_Text",
   "BasePath": "_content/TechonologyOne_Number_To_Text",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TechonologyOne_Number_To_Text\\wwwroot",
       "Source": "TechonologyOne_Number_To_Text",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TechonologyOne_Number_To_Text.styles.css",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TechonologyOne_Number_To_Text.styles.css",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "TechonologyOne_Number_To_Text.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TechonologyOne_Number_To_Text.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TechonologyOne_Number_To_Text.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TechonologyOne_Number_To_Text.bundle.scp.css",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TechonologyOne_Number_To_Text.bundle.scp.css",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "TechonologyOne_Number_To_Text.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TechonologyOne_Number_To_Text.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TechonologyOne_Number_To_Text.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\app.css",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\favicon.png",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\style.css",
       "SourceId": "TechonologyOne_Number_To_Text",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\wwwroot\\",
       "BasePath": "_content/TechonologyOne_Number_To_Text",
       "RelativePath": "style.css",
       "AssetKind": "All",

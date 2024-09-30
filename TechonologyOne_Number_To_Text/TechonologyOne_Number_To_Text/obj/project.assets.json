@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text.csproj",
+      "projectUniqueName": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text.csproj",
       "projectName": "TechonologyOne_Number_To_Text",
-      "projectPath": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text.csproj",
+      "projectPath": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text.csproj",
       "packagesPath": "C:\\Users\\Kirsty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\",
+      "outputPath": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\TechonologyOne_Number_To_Text\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

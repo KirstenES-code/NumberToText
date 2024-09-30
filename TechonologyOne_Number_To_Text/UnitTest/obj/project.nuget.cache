@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFDIP+PGwjA=",
+  "dgSpecHash": "aM2iYeONsto=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirsty\\Desktop\\Programming\\TechnologyOne Number To Text\\TechonologyOne_Number_To_Text\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Kirsty\\Documents\\GitHub\\NumberToText\\TechonologyOne_Number_To_Text\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirsty\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Kirsty\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -28,15 +28,13 @@
 
 
 @code {
-    //[Parameter] public EventCallback<string> OnDoneCallBack { get; set; }
-    private string text = "Enter Dollar Value Below To Begin...";
+    private string text { get; set; } = "Enter Dollar Value Below To Begin...";
     private decimal input { get; set; }
-    private string input_string { get; set; }
+    private string input_string { get; set; } = "";
 
     private void CheckNum(ChangeEventArgs args)
     {
-        Console.WriteLine(args.Value.ToString());
-        if(args.Value.ToString() != "")
+        if (args.Value.ToString() != "")
         {
             try
             {
@@ -54,22 +52,17 @@
             input = 0;
         }
         GetText();
+
     }
 
     private void GetText()
     {
         input = Math.Round(input, 2); //Round to prevent giving too many decimal points to function
-        if (input > decimal.MaxValue)
+
+        text = NumToText.DollarsToText(input);
+        if (text == "")
         {
-            text = "NUMBER IS TOO LARGE";
-        }
-        else
-        {
-            text = NumToText.DollarsToText(input);
-            if (text == "")
-            {
-                text = "Error With Input, Try Another Number";
-            }
+            text = "Error With Input, Try Another Number";
         }
     }
 

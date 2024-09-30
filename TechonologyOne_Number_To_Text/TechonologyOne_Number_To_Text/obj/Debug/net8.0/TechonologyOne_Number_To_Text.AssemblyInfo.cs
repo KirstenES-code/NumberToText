@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechonologyOne_Number_To_Text")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f484a7ede0bbc18853920cd2f8b13b1b0886c9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74059634815f50b76b2f62e599928b6239761566")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechonologyOne_Number_To_Text")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechonologyOne_Number_To_Text")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

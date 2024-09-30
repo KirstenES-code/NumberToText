@@ -69,7 +69,7 @@ namespace TechonologyOne_Number_To_Text.Components
             else
             {
                 output += DoubleDigitText[number / 10];
-                if(number % 10 != 0) { output += " " + SingleDigitText[number % 10]; }
+                if(number % 10 != 0) { output += "-" + SingleDigitText[number % 10]; }
             }
             return output;
         }

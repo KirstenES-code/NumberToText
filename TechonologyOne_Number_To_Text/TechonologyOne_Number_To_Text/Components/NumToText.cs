@@ -5,7 +5,7 @@ namespace TechonologyOne_Number_To_Text.Components
     public class NumToText
     {
         //Define dictionaries with text data
-        private static Dictionary<UInt128, string> SingleDigitText = new Dictionary<UInt128, string>
+        private static readonly Dictionary<UInt128, string> SingleDigitText = new Dictionary<UInt128, string>
         {
             { 1, "ONE" },
             { 2, "TWO" },
@@ -18,7 +18,7 @@ namespace TechonologyOne_Number_To_Text.Components
             { 9, "NINE" }
         };
 
-        private static Dictionary<UInt128, string> DoubleDigitText = new Dictionary<UInt128, string>
+        private static readonly Dictionary<UInt128, string> DoubleDigitText = new Dictionary<UInt128, string>
         {
             { 2, "TWENTY" },
             { 3, "THIRTY" },
@@ -30,7 +30,7 @@ namespace TechonologyOne_Number_To_Text.Components
             { 9, "NINETY" },
         };
 
-        private static Dictionary<UInt128, string> TeenDigitText = new Dictionary<UInt128, string>
+        private static readonly Dictionary<UInt128, string> TeenDigitText = new Dictionary<UInt128, string>
         {
             { 10, "TEN" },
             { 11, "ELEVEN" },
@@ -44,7 +44,7 @@ namespace TechonologyOne_Number_To_Text.Components
             { 19, "NINETEEN" }
         };
 
-        private static Dictionary<UInt128, string> DigitCountText = new Dictionary<UInt128, string>
+        private static readonly Dictionary<UInt128, string> DigitCountText = new Dictionary<UInt128, string>
         {
             { 1, "THOUSAND" },
             { 2, "MILLION" },

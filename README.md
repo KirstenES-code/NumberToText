@@ -11,3 +11,4 @@
 
 # Troubleshooting
 - If you have the error ASP.NET: HTTP Error 500.19 – Internal Server Error 0x8007000d, you may need to install the .NET Core Hosting Bundle from https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/hosting-bundle?view=aspnetcore-8.0
+- If there is a file permission error (HTTP Error 500.19 - Internal Server Error 0x80070005) you will need to add permission for the IIS user to access the folder requested. In IIS, navigate to the website and click "Edit Permissions..." on the right. Under Security click Edit... then Add... and put "IIS_IUSRS" in the object names to select. Click Check Names then OK, OK, OK
